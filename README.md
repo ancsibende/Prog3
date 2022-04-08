@@ -1,2 +1,3 @@
 # Prog3
-Programozás alapjai 3 házi feladat
+Programozás alapjai 3 házi feladat - Receptkönyv
+
